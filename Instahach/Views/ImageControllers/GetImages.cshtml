@@ -1,0 +1,38 @@
+﻿@model IEnumerable<ImageResponse>
+<h2>Фото пользователей</h2>
+<div class="row mt-5 mb-2">
+    @{
+        foreach (var image in Model)
+        {
+            <div class="col-lg-4">
+                <img alt="@image.Id" class="img-thumbnail" src="@image.Path" data-toggle="modal" data-target="#imageModal-@image.Id">
+                <h3>Id фото: @image.Id</h3>
+                <p>Количество лайков: @image.NumberOfLikes</p>
+                <p>
+                    <a class="btn btn-warning" href="#">Подробнее</a>
+                </p>
+            </div>
+        }
+    }
+</div>
+@foreach (var image in Model)
+{
+    <div class="modal fade" id="imageModal-@image.Id" tabindex="-1" role="dialog" aria-labelledby="imageModalLabel" aria-hidden="true">
+        <div class="modal-dialog modal-dialog-centered modal-lg" role="document">
+            <div class="modal-content">
+                <div class="modal-body">
+                    <img src="@image.Path" alt="@image.Id" class="img-fluid">
+                </div>
+            </div>
+        </div>
+    </div>
+}
+<div class="container">
+  <div class="row justify-content-center align-items-center" style="height: 100vh;">
+    <div class="col-md-6 text-center">
+     <form action="/images/post" method="get">
+       <input type="submit" value="Upload" />
+     </form>
+    </div>
+  </div>
+</div>

@@ -1,0 +1,81 @@
+{
+  "Files": [
+    {
+      "Id": "F:\\Projects\\Instahach\\Instahach\\wwwroot\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "F:\\Projects\\Instahach\\Instahach\\wwwroot\\css\\style.css",
+      "PackagePath": "staticwebassets\\css\\style.css"
+    },
+    {
+      "Id": "F:\\Projects\\Instahach\\Instahach\\wwwroot\\images\\2b7ed5a8-3118-46fa-9833-79fbf7c42912_my_image.png",
+      "PackagePath": "staticwebassets\\images\\2b7ed5a8-3118-46fa-9833-79fbf7c42912_my_image.png"
+    },
+    {
+      "Id": "F:\\Projects\\Instahach\\Instahach\\wwwroot\\images\\2cebea8f-fe28-46ca-85e0-90dd921be457_my_image.png",
+      "PackagePath": "staticwebassets\\images\\2cebea8f-fe28-46ca-85e0-90dd921be457_my_image.png"
+    },
+    {
+      "Id": "F:\\Projects\\Instahach\\Instahach\\wwwroot\\images\\343bf9b6-0116-4e97-b9ef-9d28117f99f9_2022-06-22 12-13-22.JPG",
+      "PackagePath": "staticwebassets\\images\\343bf9b6-0116-4e97-b9ef-9d28117f99f9_2022-06-22 12-13-22.JPG"
+    },
+    {
+      "Id": "F:\\Projects\\Instahach\\Instahach\\wwwroot\\images\\3944af0f-25da-4cb8-a1f6-b6b57c9296bd_2022-06-16 00-55-12.JPG",
+      "PackagePath": "staticwebassets\\images\\3944af0f-25da-4cb8-a1f6-b6b57c9296bd_2022-06-16 00-55-12.JPG"
+    },
+    {
+      "Id": "F:\\Projects\\Instahach\\Instahach\\wwwroot\\images\\4e2a9d18-2c69-41e4-9052-537021e9455d_ALU.circ",
+      "PackagePath": "staticwebassets\\images\\4e2a9d18-2c69-41e4-9052-537021e9455d_ALU.circ"
+    },
+    {
+      "Id": "F:\\Projects\\Instahach\\Instahach\\wwwroot\\images\\760d6f73-2552-44d8-8c19-dbd67914be4f_2022-06-22 12-01-12.JPG",
+      "PackagePath": "staticwebassets\\images\\760d6f73-2552-44d8-8c19-dbd67914be4f_2022-06-22 12-01-12.JPG"
+    },
+    {
+      "Id": "F:\\Projects\\Instahach\\Instahach\\wwwroot\\images\\b002933d-7106-40ca-a367-3ee5bd1194d0_200.webp",
+      "PackagePath": "staticwebassets\\images\\b002933d-7106-40ca-a367-3ee5bd1194d0_200.webp"
+    },
+    {
+      "Id": "F:\\Projects\\Instahach\\Instahach\\wwwroot\\images\\beb2e2c0-dec6-4cd2-8771-85b72edda82f_wp9145749.jpg",
+      "PackagePath": "staticwebassets\\images\\beb2e2c0-dec6-4cd2-8771-85b72edda82f_wp9145749.jpg"
+    },
+    {
+      "Id": "F:\\Projects\\Instahach\\Instahach\\wwwroot\\images\\cbfd98d6-1da8-467d-a73e-2f840b33750c_photo_2022-05-10_21-14-30-removebg-preview.png",
+      "PackagePath": "staticwebassets\\images\\cbfd98d6-1da8-467d-a73e-2f840b33750c_photo_2022-05-10_21-14-30-removebg-preview.png"
+    },
+    {
+      "Id": "F:\\Projects\\Instahach\\Instahach\\wwwroot\\images\\e45d6b3e-b8a0-4728-8832-2535f4daf3b5_2022-06-21 20-23-35.JPG",
+      "PackagePath": "staticwebassets\\images\\e45d6b3e-b8a0-4728-8832-2535f4daf3b5_2022-06-21 20-23-35.JPG"
+    },
+    {
+      "Id": "F:\\Projects\\Instahach\\Instahach\\wwwroot\\images\\fb219ffa-210e-4160-ae19-6c0f01a7cb69_img1.png",
+      "PackagePath": "staticwebassets\\images\\fb219ffa-210e-4160-ae19-6c0f01a7cb69_img1.png"
+    },
+    {
+      "Id": "F:\\Projects\\Instahach\\Instahach\\wwwroot\\images\\img1.png",
+      "PackagePath": "staticwebassets\\images\\img1.png"
+    },
+    {
+      "Id": "F:\\Projects\\Instahach\\Instahach\\wwwroot\\scripts\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\scripts\\bootstrap.min.js"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.Instahach.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.build.Instahach.props",
+      "PackagePath": "build\\Instahach.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.buildMultiTargeting.Instahach.props",
+      "PackagePath": "buildMultiTargeting\\Instahach.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.buildTransitive.Instahach.props",
+      "PackagePath": "buildTransitive\\Instahach.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
